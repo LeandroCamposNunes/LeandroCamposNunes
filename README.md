@@ -14,6 +14,6 @@ Eu sou Leando Campos Nunes, sou um Programador Frond End, atualmente estou apren
 Minhas redes sociais:
 <br>
 <br>
-  - <a href= "www.linkedin.com/in/leandrocamposnunes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo"/>
+  - <a href= "https://www.linkedin.com/in/leandrocamposnunes/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin-logo"/>
   - <a href= "https://www.instagram.com/leandrocamposn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram-logo"/>
   - <a href= "https://www.facebook.com/leandro.camposnunes.7"><img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" alt="Facebook-logo"/>
